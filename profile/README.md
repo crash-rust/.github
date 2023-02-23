@@ -1,7 +1,7 @@
 <div align="center">
   <img
-  src="https://user-images.githubusercontent.com/72691225/220808438-7b0f1bcc-5bc4-45ec-8d59-d4e200a90301.png" alt="Rust Programing Coding"/>
+  src="https://user-images.githubusercontent.com/72691225/220810893-2251a7d4-fabb-4ea1-a0d7-81df9fae9377.png" alt="Rust Coding"/>
   <h1 align="center">
- Rust Programing Coding
+ Rust Coding
   </h1>
 </div>
