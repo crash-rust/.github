@@ -1,6 +1,6 @@
 <div align="center">
   <img
-  src="https://user-images.githubusercontent.com/72691225/220810893-2251a7d4-fabb-4ea1-a0d7-81df9fae9377.png" alt="Rust Coding"/>
+  src="https://user-images.githubusercontent.com/72691225/220811079-47e85b1e-9865-4455-9c1b-1d3c2fb5d358.jpeg" alt="Rust Coding"/>
   <h1 align="center">
  Rust Coding
   </h1>
